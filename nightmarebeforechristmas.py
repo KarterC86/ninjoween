@@ -7,5 +7,7 @@ def words():
         time.sleep(1)
         print(x)
         i = i-1
-
 words()
+
+
+#more ninjaing here. 
