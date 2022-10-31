@@ -8,9 +8,3 @@ def words():
         print(x)
         i = i-1
 words()
-
-
-#more ninjaing here.
-# ###Hmmmmm???
-#  Uh what?
-# no?
